@@ -1,0 +1,9 @@
+<div class="container">
+  <p *ngFor="let value of values" class="value_text">
+    {{value.name}}
+  </p>
+
+  <ul>
+      <li *ngFor="let valuex of values">{{valuex.id}}, {{valuex.name}}</li>
+  </ul>
+</div>

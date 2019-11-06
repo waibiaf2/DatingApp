@@ -1,0 +1,6 @@
+.idea
+.vscode
+.bin
+.obj
+*.db
+inspectionProfiles/Project_Default.xml
